@@ -1,0 +1,11 @@
+{
+  "project_name": "PromptForge AI",
+  "project_type": "Generative AI Capstone Project 2026",
+  "description": "Intelligent Prompt Optimizer",
+  "llm": "Llama 3.2",
+  "llm_runtime": "Ollama",
+  "language": "Python",
+  "ui": "Streamlit",
+  "validation": "Pydantic",
+  "data_format": "JSON"
+}

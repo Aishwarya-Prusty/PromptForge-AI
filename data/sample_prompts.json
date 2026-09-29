@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Presentation",
+    "input": "Make a presentation about climate change."
+  },
+  {
+    "category": "Coding",
+    "input": "Write a Python program to manage student marks."
+  },
+  {
+    "category": "Education",
+    "input": "Explain machine learning to a beginner."
+  },
+  {
+    "category": "Career",
+    "input": "Create a resume for a software engineer."
+  },
+  {
+    "category": "Email",
+    "input": "Write an email asking my professor for two days leave."
+  },
+  {
+    "category": "Creative",
+    "input": "Write an Instagram post about artificial intelligence."
+  }
+]
